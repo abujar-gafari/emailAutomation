@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "WJ-DRaCX_ECnewBlfia-Og",
+  "Reference": "nrzX15Ox_02omETvCnnWzw/WJ-DRaCX_ECnewBlfia-Og",
+  "ParentRef": "nrzX15Ox_02omETvCnnWzw/oGBNEPnEx0CWcegZ6NSdOA",
+  "Created": "2025-02-23T16:57:02.299251Z",
+  "Updated": "2025-02-23T16:57:02.299251Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
