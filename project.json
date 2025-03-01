@@ -1,7 +1,7 @@
 {
-  "name": "tutorial6",
+  "name": "emailAutomation",
   "projectId": "2a40c381-e1ed-4cfb-aae7-ba4e6b772930",
-  "description": "tutorial by Mukesh kala",
+  "description": "tutorial 6 by Mukesh kala ",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.GSuite.Activities": "[3.0.1-preview]",
